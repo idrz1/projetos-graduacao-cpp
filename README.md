@@ -15,13 +15,13 @@ Este repositório centraliza os algoritmos e projetos desenvolvidos durante minh
 - **Destaque:** Meu primeiro projeto desenvolvido na UFMG em 2023, focado em lógica matemática e modularização com funções em C.
 
 ### 3. Manipulador de Strings (Prova UFJF)
-- **Caminho:** `/questao-prova`
+- **Caminho:** `/desafio-provas`
 - **Descrição:** Algoritmo desenvolvido para resolver um desafio técnico de prova, focando em manipulação de caracteres e lógica de contagem.
 - **Destaque:** Utiliza a tabela ASCII para alternar entre maiúsculas e minúsculas de forma dinâmica, baseando-se na posição da palavra na frase (ímpar/par). 
 - **Contexto:** Criado durante o período de graduação na UFJF.
 
 ### 4. Calculadora de Cashback Acumulado (UFJF)
-- **Caminho:** `/desafios-provas`
+- **Caminho:** `/desafio-provas`
 - **Descrição:** Algoritmo para processar múltiplos registros de consumo e calcular o retorno financeiro (cashback) baseado em categorias específicas.
 - **Destaque:** Demonstra manipulação de arrays e lógica de processamento em lote (batch), conceitos fundamentais para a área de dados.
 - **Contexto:** Desenvolvido como parte de avaliação técnica na graduação da UFJF.
